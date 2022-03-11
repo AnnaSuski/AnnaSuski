@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/97906231/157825675-0b01f582-5067-42b9-b425-7b2e74bf7f2a.png"/>
-  <br>
-  <div> 
+<br>
+<div align="center"> 
   <a href="https://github.com/annasuski">
   <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=annasuski&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasuski&layout=compact&langs_count=7&theme=jolly"/>
