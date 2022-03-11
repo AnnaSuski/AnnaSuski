@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <a href="https://github.com/annasuski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annasuski&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasuski&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=annasuski&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="50%" width="489" style="border-radius:50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasuski&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -13,7 +13,6 @@
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97906231/157818093-6a25b385-f320-470d-8307-8377b1f4dbb4.png">
 </div>
   
   ##
