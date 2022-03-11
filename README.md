@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://user-images.githubusercontent.com/97906231/157825459-5fce1915-1eea-4ff4-85be-df15dbbb57eb.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/97906231/157825675-0b01f582-5067-42b9-b425-7b2e74bf7f2a.png"/>
 <div align="center">
   <br>
   <a href="https://github.com/annasuski">
