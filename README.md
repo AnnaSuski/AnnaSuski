@@ -13,6 +13,7 @@
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="right" height="300" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97906231/157818093-6a25b385-f320-470d-8307-8377b1f4dbb4.png">
 </div>
   
   ##
