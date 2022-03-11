@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <a href="https://github.com/annasuski">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=annasuski&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasuski&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=annasuski&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasuski&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
